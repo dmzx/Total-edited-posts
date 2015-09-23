@@ -1,0 +1,9 @@
+services:
+    dmzx.totaleditedposts.listener:
+        class: dmzx\totaleditedposts\event\listener
+        arguments:
+            - @template
+            - @user
+            - @dbal.conn
+        tags:
+            - { name: event.listener }
