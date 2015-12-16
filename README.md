@@ -1,5 +1,7 @@
 # Total edited posts Extension
 
+[![Build Status](https://travis-ci.org/dmzx/Total-edited-posts.svg?branch=master)](https://travis-ci.org/dmzx/Total-edited-posts)
+
 ## Install
 
 1. Download the latest release.
